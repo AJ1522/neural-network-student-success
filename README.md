@@ -72,11 +72,11 @@ This project was completed as part of an MBA data mining course and is for educa
    ```bash
    git clone https://github.com/yourusername/neural-network-student-success.git
 
-2. Navigate into the project directory
+2. Navigate into the project directory:
    cd neural-network-student-success
 3. Install dependencies:
 
 Ensure you have Python 3.8+ installed.
 Use the pip command to install the required libraries:
-bash
-Copy code
+pip install -r requirements.txt
+
