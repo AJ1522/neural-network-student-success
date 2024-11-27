@@ -77,10 +77,10 @@ This project was completed as part of an MBA data mining course and is for educa
     cd neural-network-student-success
 
 3. Install dependencies:
-   Ensure you have Python 3.8+ installed.
-   Use the pip command to install the required libraries:
-   ```bash
-   pip install -r requirements.txt
+   - Use the `pip` command to install the required libraries:
+     ```bash
+     pip install -r requirements.txt
+     ```
 
 4. Run the script:
    To execute the neural network model use:
