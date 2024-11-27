@@ -88,12 +88,11 @@ This project was completed as part of an MBA data mining course and is for educa
    python neural_network_project.py
 
 5. View results:
-   The script will generate outputs such as:
-   Confusion Matrix
-   Classification Report
-   ROC Curve
+   - The script will generate outputs such as:
+  - Confusion Matrix
+  - Classification Report
+  - ROC Curve
    Check your working directory for saved visualizations (e.g., PNG files).
-
    
 
 
