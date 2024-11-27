@@ -29,13 +29,13 @@ The goal of this project was to assist university leadership in identifying at-r
 - **ROC AUC**: 0.74
 - **Key Visuals**:
   - **Confusion Matrix**:
-    ![Confusion Matrix](Confusion_Matrix.png)
+    ![Confusion Matrix](Confusion%20Matrix.png)
   - **Classification Report**:
-    ![Classification Report](Classification_Report.png)
+    ![Classification Report](Classification%20Report.png)
   - **Model Accuracy Over Epochs**:
-    ![Model Accuracy Over Epochs](Model_Accuracy_Over_Epochs.png)
+    ![Model Accuracy Over Epochs](Model%20Accuracy%20Over%20Epochs.png)
   - **ROC Curve**:
-    ![ROC Curve](ROC_Curve.png)
+    ![ROC Curve](ROC%20Curve.png)
 
 ### Insights:
 - The model is effective in identifying students who are at risk of not succeeding.
