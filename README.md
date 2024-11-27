@@ -95,6 +95,10 @@ This project was completed as part of an MBA data mining course and is for educa
    Check your working directory for saved visualizations (e.g., PNG files).
    
 
+## Contact
+For any questions or feedback, feel free to reach out:
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/aenriquez1522/)
+- GitHub: [Your GitHub Profile](https://github.com/AJ1522)
 
 
 
