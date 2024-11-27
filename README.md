@@ -70,13 +70,33 @@ This project was completed as part of an MBA data mining course and is for educa
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neural-network-student-success.git
+   git clone https://github.com/AJ1522/neural-network-student-success.git
 
 2. Navigate into the project directory:
-   cd neural-network-student-success
-3. Install dependencies:
+    ```bash
+    cd neural-network-student-success
 
-Ensure you have Python 3.8+ installed.
-Use the pip command to install the required libraries:
-pip install -r requirements.txt
+3. Install dependencies:
+   Ensure you have Python 3.8+ installed.
+   Use the pip command to install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the script:
+   To execute the neural network model use:
+   ```bash
+   python neural_network_project.py
+
+5. View results:
+   The script will generate outputs such as:
+   Confusion Matrix
+   Classification Report
+   ROC Curve
+   Check your working directory for saved visualizations (e.g., PNG files).
+
+   
+
+
+
+
 
