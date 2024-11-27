@@ -97,8 +97,8 @@ This project was completed as part of an MBA data mining course and is for educa
 
 ## Contact
 For any questions or feedback, feel free to reach out:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/aenriquez1522/)
-- GitHub: [Your GitHub Profile](https://github.com/AJ1522)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/aenriquez1522/)
+- GitHub: [GitHub Profile](https://github.com/AJ1522)
 
 
 
